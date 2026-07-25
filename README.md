@@ -2,10 +2,9 @@
 
 ## Overview
 
-This project demonstrates the core features of Amazon S3 by building and configuring a secure storage bucket. The implementation includes object upload, versioning, server-side encryption (SSE-S3), bucket policies, and static website hosting.
+This project demonstrates the core features of Amazon S3 by building and configuring a secure storage bucket. During the project, I created an S3 bucket, uploaded objects, enabled versioning, configured server-side encryption (SSE-S3), created a bucket policy, and hosted a simple static website.
 
-The goal of this project is to gain practical experience with Amazon S3 and understand its storage and security capabilities through hands-on implementation.
-
+The objective of this mini lab was to gain hands-on experience with Amazon S3 while understanding fundamental cloud storage concepts and security best practices.
 ---
 
 ## AWS Service Used
@@ -16,15 +15,12 @@ The goal of this project is to gain practical experience with Amazon S3 and unde
 
 ## Features Implemented
 
-- Created an Amazon S3 bucket
-- Uploaded multiple objects
-- Enabled Versioning
-- Configured Server-Side Encryption (SSE-S3)
-- Configured a Bucket Policy for public read access
-- Enabled Static Website Hosting
-- Hosted a simple static website
-
----
+- Amazon S3 bucket creation
+- Object upload and management
+- Object Versioning
+- Server-Side Encryption (SSE-S3)
+- Bucket Policy configuration
+- Static Website Hosting
 
 ## Project Structure
 
